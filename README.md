@@ -87,7 +87,7 @@ python manage.py runserver 0.0.0.0:8000
 项目讲解：
 ----
 1、登录页面，只提供了登录方法，并没有注册和忘记密码功能，账号由后台管理系统直接创建分配<br>
-![登录页面](https://github.com/githublitao/api_automation_test/img/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)<br>
+![登录页面](https://github.com/githublitao/api_automation_test/designMode/blob/master/img/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)<br>
 <br>
 2、目前只开放了接口测试，所有只有项目列表页面，可完成项目的新增，删除，查询，修改，批量删除<br>
 ![首页](https://github.com/githublitao/api_automation_test/blob/master/img/%E9%A6%96%E9%A1%B5.png)<br>
